@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/commutio-privacy-policy/static/css/main.f855e6bc.css",
+    "main.js": "/commutio-privacy-policy/static/js/main.c6e0e594.js",
+    "static/js/453.262fecab.chunk.js": "/commutio-privacy-policy/static/js/453.262fecab.chunk.js",
+    "static/media/logo.svg": "/commutio-privacy-policy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/commutio-privacy-policy/index.html",
+    "main.f855e6bc.css.map": "/commutio-privacy-policy/static/css/main.f855e6bc.css.map",
+    "main.c6e0e594.js.map": "/commutio-privacy-policy/static/js/main.c6e0e594.js.map",
+    "453.262fecab.chunk.js.map": "/commutio-privacy-policy/static/js/453.262fecab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c6e0e594.js"
+  ]
+}
